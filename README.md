@@ -1,3 +1,7 @@
+![yogicare front](https://github.com/user-attachments/assets/1bd97b1d-cd74-4c5e-961e-7e5a022a97f7)
+ 
+ 
+ 
  YOGICARE:
 
  YogiCare is a web application designed to promote health and wellness through the practice of yoga. The app offers a curated collection of specialized yoga postures tailored to address specific diseases or health issues. Whether you're looking to alleviate stress, improve flexibility, or manage chronic conditions, YogiCare provides personalized yoga routines to support your well-being.
